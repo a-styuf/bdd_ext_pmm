@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=R1 Old Footprint=SMD_2010 New Footprint=SMD_2010_1
+Change Component Footprint: Designator=R2 Old Footprint=SMD_2010 New Footprint=SMD_2010_1
+Change Component Footprint: Designator=R3 Old Footprint=SMD_2010 New Footprint=SMD_2010_1
+Change component parameters: Designator = "R1" ("R1"); Footprint = "SMD_2010"; UniqueID = "\UFGNHDAI" ("\UFGNHDAI")
+Change component parameters (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "SMD_2010"; UniqueID = "\YHNCAFKX" ("\YHNCAFKX")
+Change component parameters (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "SMD_2010"; UniqueID = "\VQKMDCYE" ("\VQKMDCYE")
+Change component parameters (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Room: Name=bdd_ext_pmm

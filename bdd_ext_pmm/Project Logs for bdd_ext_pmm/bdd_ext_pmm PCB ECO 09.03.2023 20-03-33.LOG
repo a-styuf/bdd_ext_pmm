@@ -1,0 +1,36 @@
+Added Component: Designator=P1(PAD1)
+Added Component: Designator=P1(PAD1)
+Added Component: Designator=R1(SMD_2010)
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SMD_2010)
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(SMD_2010)
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R3-2
+Added Net: Name=NetP1_1
+Add Net: Net with name "NetP1_1" already exists
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component P1 PAD1
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component P1 PAD1
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component R1 2010
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component R2 2010
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component R3 2010
+Added Room: Name=bdd_ext_pmm
