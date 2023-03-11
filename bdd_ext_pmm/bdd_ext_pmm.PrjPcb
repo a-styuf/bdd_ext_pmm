@@ -167,6 +167,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFKAJSVF
 
+[Parameter1]
+Name=GlobalProjectRevision
+Value=#1.0
+
+[Parameter2]
+Name=GlobalProjectName
+Value=БДД: доп. плата модуля питания
+
+[Parameter3]
+Name=GlobalOrganizationName
+Value=НГУ
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
