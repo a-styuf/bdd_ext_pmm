@@ -168,14 +168,42 @@ GenerateClassCluster=0
 DocumentUniqueId=YFKAJSVF
 
 [Parameter1]
+Name=Утвердил
+Value=Прокопьев
+
+[Parameter2]
+Name=Разработал
+Value=Шигаев
+
+[Parameter3]
+Name=Проверил
+Value=Прокопьев
+
+[Parameter4]
+Name=NormInspection
+Value=Задорожная
+
+[Parameter5]
 Name=GlobalProjectRevision
 Value=#1.0
 
-[Parameter2]
+[Parameter6]
+Name=GlobalProjectNumber
+Value=ЮМП...
+
+[Parameter7]
+Name=GlobalProjectName2
+Value=модуля питания
+
+[Parameter8]
+Name=GlobalProjectName1
+Value=БДД: доп. плата
+
+[Parameter9]
 Name=GlobalProjectName
 Value=БДД: доп. плата модуля питания
 
-[Parameter3]
+[Parameter10]
 Name=GlobalOrganizationName
 Value=НГУ
 

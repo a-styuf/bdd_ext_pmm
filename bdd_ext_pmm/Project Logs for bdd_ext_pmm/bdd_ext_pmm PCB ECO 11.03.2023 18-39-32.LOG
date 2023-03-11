@@ -1,0 +1,20 @@
+Change component parameters: Designator = "R1" ("R1"); Footprint = "SMD_2010_1"; UniqueID = "\UFGNHDAI" ("\UFGNHDAI")
+Change component parameters (AddParameter): Name = "Value"; Value = "500k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "SMD_2010_1"; UniqueID = "\YHNCAFKX" ("\YHNCAFKX")
+Change component parameters (AddParameter): Name = "Value"; Value = "500k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "SMD_2010_1"; UniqueID = "\VQKMDCYE" ("\VQKMDCYE")
+Change component parameters (AddParameter): Name = "Value"; Value = "500k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=bdd_ext_pmm Member=Component P2 PAD1
+Added Room: Name=bdd_ext_pmm
